@@ -169,7 +169,6 @@ with(data, {
     plot(mweekday[, 1], type = "l", xaxt = "n", ylab = "weekends")
     par(mai = c(1, 1, 0, 0))
     plot(mweekday[, 2], type = "l", xlab = "interval", ylab = "weekdays")
-
 })
 ```
 
